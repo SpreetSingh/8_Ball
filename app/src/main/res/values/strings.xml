@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">8 Ball</string>
+    <string name="button">Ask Me</string>
+    <string name="text">Any confusion to take decision</string>
+</resources>
